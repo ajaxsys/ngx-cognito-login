@@ -1,7 +1,8 @@
+// 3<>9
 export let cognito = {
   userPool: {
-    UserPoolId: 'us-east-1_o07i6UNpK',
-    ClientId: 'a3us4rrhlvcso6eid68c5ue91',
-    region: 'us-east-1'
+      UserPoolId: 'ap-northeast-1_EzBEdRxZO',
+      ClientId: '9a2be9ppg0n6bv42h2qivubt9t',
+      region: 'ap-northeast-1'
   }
 };
